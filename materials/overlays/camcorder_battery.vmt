@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture	"overlays/camcorder_battery"
+	$translucent	1
+}

@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture	"overlays/camcorder_visor1"
+	$translucent	1
+}
